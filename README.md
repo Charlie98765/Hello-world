@@ -1,4 +1,4 @@
 # Hello-world
 
-Do Re Mi Fa So La Ti Do
+Do Re Mi Fa So La Ti Do.
 Haha!
